@@ -3,10 +3,10 @@
 > iOS / Flutter 专业代码混淆工具
 > Professional iOS & Flutter Code Obfuscation Tool
 
-[![Website](https://img.shields.io/badge/Website-codefog.com-blue)](https://codefog.com)
+[![Website](https://img.shields.io/badge/Website-codefog.cc-blue)](https://codefog.cc)
 [![Release](https://img.shields.io/github/v/release/codefog-apple/codefog?label=Latest)](https://github.com/codefog-apple/codefog/releases)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-macOS-lightgrey)](https://codefog.com)
+[![Platform](https://img.shields.io/badge/Platform-macOS-lightgrey)](https://codefog.cc)
 
 ---
 
@@ -87,7 +87,7 @@ CodeFog 是一款专为 **iOS (Objective-C / Swift)** 和 **Flutter (Dart)** 项
 
 ## 联系我们
 
-- 官网：[codefog.com](https://codefog.com)
+- 官网：[codefog.cc](https://codefog.cc)
 - 邮箱：codefog2026@outlook.com
 - GitHub：[@codefog-apple](https://github.com/codefog-apple)
 

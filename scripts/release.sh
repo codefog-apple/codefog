@@ -77,7 +77,7 @@ DEFAULT_NOTES="## CodeFog v${VERSION}
 3. 首次运行可能需要在「系统设置 → 隐私与安全性」中允许
 
 ---
-**官网**: [codefog.com](https://codefog.com)"
+**官网**: [codefog.cc](https://codefog.cc)"
 
 RELEASE_NOTES="${NOTES:-$DEFAULT_NOTES}"
 
